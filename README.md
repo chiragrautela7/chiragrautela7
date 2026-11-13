@@ -36,7 +36,7 @@ I am a detail-oriented **Data Analyst** with a BCA background from **Graphic Era
 | **[Used Car Market Intelligence](https://github.com/chiragrautela7/used-car-market-intelligence)** | Performed end-to-end EDA to uncover pricing drivers, depreciation patterns, and brand valuation insights. | Python, Pandas, Matplotlib, Seaborn |
 | **[HR Employee Attrition Analysis](https://github.com/chiragrautela7/HR-Employee-Attrition-Analysis)** | Analyzed employee demographics, salary, and job satisfaction to identify key factors behind attrition. | Python, EDA, Statistical Analysis |
 | **[Revenue Leakage Billing Analysis](https://github.com/chiragrautela7/Revenue-Leakage-Billing-Analysis)** | Audited billing records to detect under-billing anomalies and recommend improvements to recover lost revenue. | Python, SQL, Data Auditing |
-
+| [Digital Banking Financial Intelligence](https://github.com/chiragrautela7/digital-banking-financial-intelligence) | Conducted digital banking data auditing and financial intelligence analysis using advanced SQL schemas and queries. | SQL, MySQL, Financial Intelligence |
 ---
 
 ### 📫 Connect With Me
